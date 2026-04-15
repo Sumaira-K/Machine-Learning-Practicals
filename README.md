@@ -1,1 +1,1 @@
-# Exp01-Demostrating-various-list-operations-
+# Machine Learning Practicals
