@@ -30,7 +30,7 @@ A collection of Jupyter notebook-based machine learning experiments and data sci
 #### **Evaluation**
 - `Lab_Evaluation.ipynb` - Comprehensive evaluation of all experiments and results
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 This repository covers:
 - Python basics (Lists, Dictionaries)
