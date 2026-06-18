@@ -88,27 +88,13 @@ This repository covers:
 - Performance metrics (accuracy, precision, recall, F1-score)
 
 ## Technologies Used
-**Python** - Programming language
-**Jupyter Notebook** - Interactive computing environment
-**Pandas** - Data manipulation and analysis
-**NumPy** - Numerical computing
-**Matplotlib** - Data visualization
-**Seaborn** - Statistical data visualization
-**Scikit-learn** - Machine learning library
-
-##  Experiment Flow
-
-Data Understanding (Exp01, Exp02, Exp04)
-         ↓
-Data Preprocessing (Exp03)
-         ↓
-Exploratory Data Analysis (Exp05)
-         ↓
-Model Development (Exp06.1, Exp06.2)
-         ↓
-Evaluation & Results (Lab_Evaluation)
-
-##  Key Insights
+- **Python** - Programming language
+- **Jupyter Notebook** - Interactive computing environment
+- **Pandas** - Data manipulation and analysis
+- **NumPy** - Numerical computing
+- **Matplotlib** - Data visualization
+- **Seaborn** - Statistical data visualization
+- **Scikit-learn** - Machine learning library
 
 **Each notebook includes:**
 
